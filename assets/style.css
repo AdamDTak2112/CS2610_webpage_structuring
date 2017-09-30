@@ -111,7 +111,6 @@ nav a, nav span {
 
 main {
   display: flex;
-  flex-flow: column flow;
 }
 
 article {
